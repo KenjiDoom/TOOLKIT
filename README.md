@@ -5,5 +5,5 @@ Tools used in this program include, Nikto, Nmap,
 ### Requirements
 1. Ubuntu
 ```
-sudo apt-get install nmap nikto
+sudo apt-get install nmap nikto enum4linux
 ```
